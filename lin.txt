@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+	int i=0;
+    printf("是啊0/1\n");
+	scanf("%d",&i) ;
+    if (i==1)
+    { 
+    printf("这样啊");
+	 
+	}
+	else
+	{
+		printf("啊");
+	}
+	return 0; 
+}
